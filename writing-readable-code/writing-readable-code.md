@@ -11,7 +11,7 @@ About 90 minutes
 Attendance at Techtonica's HTML/CSS & JS workshops
 
 ### Motivation
-Since most software engineering is done in teams, it's important that the code you write is easy for others to read. You will be expected to write easily-readable code as a software engineer.
+Since most software engineering is done in teams, it's very important that the code you write is easy for others to read. You will be expected to write easily-readable code as a software engineer.
 
 ### Objectives
 
